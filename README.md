@@ -1,24 +1,17 @@
-# library
+# Shows App
 
-## Project setup
-```
-npm install
-```
+## Description:
+You can mark series, find the one you need, change the theme, set roles, send mail, switch languages, and more.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Technologies Used:
+Vue 2, Vuetify, Validate, I18n, Router, Toastification, Vuex
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## GitHub Pages:
+https://denyskuchma.github.io/Shows_App/
 
-### Lints and fixes files
+## For Local Testing:
 ```
-npm run lint
+npm/yarn install
+npm/yarn run serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
